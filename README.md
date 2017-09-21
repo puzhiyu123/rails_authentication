@@ -1,24 +1,10 @@
-# README
+# Rails_Authentication
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Rails_authetication kit enable you to have the most basic function everyone would create in Rails - Login and Signup. 
 
-Things you may want to cover:
+### <September 2017 Update Notice>
+This project will be updated in the future, with responsive design, material design and full-UI kit which resemble this site just as a normal social network site.
 
-* Ruby version
+The update is expected to be completed by the end of September.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Visit http://www.georgepu.com for more information.
